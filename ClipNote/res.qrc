@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/db">
+        <file>clipnote.db</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>logo.png</file>
+    </qresource>
+</RCC>
