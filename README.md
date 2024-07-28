@@ -33,4 +33,3 @@ ClipNote是视频笔记应用，可以生成回顾原视频指定时间点的跳
 - 浏览器扩展
 ## 感谢支持
 ![](https://ztough-1308253351.cos.ap-nanjing.myqcloud.com//wx.png)
-![](https://ztough-1308253351.cos.ap-nanjing.myqcloud.com//zfb.jpg)
